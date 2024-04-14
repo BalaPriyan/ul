@@ -7,10 +7,10 @@ const hasha = require("hasha");
 const hashMap = {};
 
 var config = {
-    apiKey: "AIzaSyBAAUCZ8xXzS4r7jxMhlvPB6OzKIC0MRE8",
-    authDomain: "urlshortner-b1883.firebaseapp.com",
-    databaseURL: "https://urlshortner-b1883.firebaseio.com",
-    storageBucket: "urlshortner-b1883.appspot.com",
+    apiKey: "AIzaSyCPjxya2jEezvEQp3cp6MgMtu8cW4KBCj4",
+    authDomain: "short-88cab.firebaseapp.com",
+    databaseURL: "https://short-88cab-default-rtdb.firebaseio.com",
+    storageBucket: "short-88cab.appspot.com",
 };
 firebase.initializeApp(config);
 
